@@ -1,0 +1,19 @@
+{
+  "name": "pieces_of_codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiapro90/Pieces_of_codes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiapro90/Pieces_of_codes/issues"
+  },
+  "homepage": "https://github.com/weijiapro90/Pieces_of_codes#readme"
+}
